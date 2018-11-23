@@ -1,0 +1,6 @@
+/home/aarpei/Escritorio/ED/ed/CHolaMundo/CHolaMundo/CHolaMundo/bin/Debug/CHolaMundo.exe
+/home/aarpei/Escritorio/ED/ed/CHolaMundo/CHolaMundo/CHolaMundo/bin/Debug/CHolaMundo.pdb
+/home/aarpei/Escritorio/ED/ed/CHolaMundo/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.csprojAssemblyReference.cache
+/home/aarpei/Escritorio/ED/ed/CHolaMundo/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.csproj.CoreCompileInputs.cache
+/home/aarpei/Escritorio/ED/ed/CHolaMundo/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.exe
+/home/aarpei/Escritorio/ED/ed/CHolaMundo/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.pdb

@@ -1,0 +1,45 @@
+## 20180917
+- Crear usuario y repositorio en github:
+	* git clone https://github.com/1dampedro/ED.git
+	* git config --global user.name pedrom
+	* git config --global user.email 1dam.pgarcia@institutoserpis.org
+	* git config --global push.default simple
+
+## 20180924
+- Instalar Java en máquina virtual (Ubuntu 16.04)
+	* sudo add-apt-repository ppa:webupd8team/java
+	* sudo apt update
+	* sudo apt install oracle-java8-installer
+
+## 20180928
+- Instalar Git (herramienta Github)
+	* sudo apt update
+	* sudo apt install git
+
+- Comandos Git
+	* Subir cambios del repositorio (local)
+		* git commit -m "Mi mensaje"
+	* Ver el log de git (commits)
+		* git log
+	* Subir los cambios al repositorio
+		* git push
+	* Actualizar el repositorio local
+		* git pull
+
+## 20181001
+- Instalación de Eclipse (IDE) para escribir código Java.
+	* Descargamos desde [Eclipse oficial](https://www.eclipse.org/downloads/)
+	* Descomprimir
+
+## 20181115
+- Instalación de MonoDevelop (pasos de [MonoDevelop](https://www.monodevelop.com/download/#fndtn-download-lin-ubuntu))
+	* sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+	* sudo apt update
+	* sudo apt install -y apt-transport-https
+	* echo "deb https://download.mono-project.com/repo/ubuntu vs-xenial main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
+	* sudo apt update
+	* sudo apt-get install -y monodevelop
+
+## 20181119
+- Modificar .gitignore para ignorar algunos directorios o ficheros no necesarios.
+
