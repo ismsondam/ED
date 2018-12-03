@@ -1,0 +1,6 @@
+/home/ismson/ED/CGtk/CGtk/bin/Debug/CGtk.exe
+/home/ismson/ED/CGtk/CGtk/bin/Debug/CGtk.pdb
+/home/ismson/ED/CGtk/CGtk/obj/x86/Debug/CGtk.csprojAssemblyReference.cache
+/home/ismson/ED/CGtk/CGtk/obj/x86/Debug/CGtk.csproj.CoreCompileInputs.cache
+/home/ismson/ED/CGtk/CGtk/obj/x86/Debug/CGtk.exe
+/home/ismson/ED/CGtk/CGtk/obj/x86/Debug/CGtk.pdb
