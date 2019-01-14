@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{ECAD0E30-7735-4347-9CE2-0A5F937F3AA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JuegoBingo/Panel.cs">
+    <Files>
+      <File FileName="JuegoBingo/Panel.cs" Line="19" Column="38" />
+      <File FileName="JuegoBingo/Bombo.cs" Line="1" Column="1" />
+      <File FileName="JuegoBingo/MainWindow.cs" Line="15" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TresEnRaya PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

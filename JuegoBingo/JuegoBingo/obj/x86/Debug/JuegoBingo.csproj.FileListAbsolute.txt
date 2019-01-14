@@ -1,0 +1,6 @@
+/home/ismson/Projects/JuegoBingo/JuegoBingo/bin/Debug/JuegoBingo.exe
+/home/ismson/Projects/JuegoBingo/JuegoBingo/bin/Debug/JuegoBingo.pdb
+/home/ismson/Projects/JuegoBingo/JuegoBingo/obj/x86/Debug/JuegoBingo.csprojAssemblyReference.cache
+/home/ismson/Projects/JuegoBingo/JuegoBingo/obj/x86/Debug/JuegoBingo.csproj.CoreCompileInputs.cache
+/home/ismson/Projects/JuegoBingo/JuegoBingo/obj/x86/Debug/JuegoBingo.exe
+/home/ismson/Projects/JuegoBingo/JuegoBingo/obj/x86/Debug/JuegoBingo.pdb

@@ -1,0 +1,6 @@
+/home/ismson/Projects/CWindow/CWindow/bin/Debug/CWindow.exe
+/home/ismson/Projects/CWindow/CWindow/bin/Debug/CWindow.pdb
+/home/ismson/Projects/CWindow/CWindow/obj/x86/Debug/CWindow.csprojAssemblyReference.cache
+/home/ismson/Projects/CWindow/CWindow/obj/x86/Debug/CWindow.csproj.CoreCompileInputs.cache
+/home/ismson/Projects/CWindow/CWindow/obj/x86/Debug/CWindow.exe
+/home/ismson/Projects/CWindow/CWindow/obj/x86/Debug/CWindow.pdb
