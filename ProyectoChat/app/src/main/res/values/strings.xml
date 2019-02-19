@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat En Linea</string>
+    <string name="TituloApp">Chat En Linea</string>
+    <string name="TextoEntrar">Entrar</string>
+    <string name="TextoElegirUsuarioHint">Usuario</string>
+    <string name="TextoElegirUsuario">Introduce un usuario</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+</resources>
